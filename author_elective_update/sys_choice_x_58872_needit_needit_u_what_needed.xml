@@ -4,6 +4,25 @@
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Helpdesk</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-09 08:43:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bca56ff3db1bc010346f6f77489619bd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-29 14:42:24</sys_updated_on>
+            <value>helpdesk1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Human resources 1</label>
             <language>en</language>
@@ -89,30 +108,30 @@
             <sys_created_on>2020-03-09 08:43:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>bca56ff3db1bc010346f6f77489619bd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>78a56ff3db1bc010346f6f77489619bf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-09 08:43:01</sys_updated_on>
-            <value>helpdesk1</value>
+            <sys_updated_on>2020-03-29 14:42:24</sys_updated_on>
+            <value>helpdesk2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Helpdesk</label>
+            <label>Other</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <sequence>5</sequence>
+            <sequence>6</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-09 08:43:01</sys_created_on>
+            <sys_created_on>2020-03-29 14:42:24</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>78a56ff3db1bc010346f6f77489619bf</sys_id>
+            <sys_id>0cb7bf9edb73401081da112039961932</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-09 08:43:01</sys_updated_on>
-            <value>helpdesk2</value>
+            <sys_updated_on>2020-03-29 14:42:24</sys_updated_on>
+            <value>other</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_what_needed</element>
